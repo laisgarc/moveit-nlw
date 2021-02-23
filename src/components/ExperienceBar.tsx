@@ -9,7 +9,7 @@ export function ExperienceBar() {
                 <div style={{width: '50%'}} />
 
                 <span className={styles.currentExperience} style={{left: '50%'}}>
-                    300xp
+                    300 xp
                 </span>
             </div>
             <span>600 xp</span>
