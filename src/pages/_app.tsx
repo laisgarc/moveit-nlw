@@ -1,4 +1,5 @@
 import { ChallengesProvider } from '../contexts/ChallengesContext'
+import { CountdownProvider } from '../contexts/CountdownContext'
 
 import '../styles/global.css'
 
